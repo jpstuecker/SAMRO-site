@@ -1,2 +1,2 @@
-# SAMRO-site
-SAMRO Public Site
+# Avindara-site
+Avindara Public Site
